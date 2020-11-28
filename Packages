@@ -1,0 +1,29 @@
+Package: pakoshub
+Version: 0.2.2-2
+Architecture: all
+Maintainer: GSM PakOS <gsm.pakos@gmail.com>
+Installed-Size: 1947
+Filename: ./pakoshub_0.2.2-2_all.deb
+Size: 1820200
+MD5sum: 399d9bacedc594c4e4478f114fac6845
+SHA1: 291c9e12a7c4f9763a5ad930886fce12c52952e2
+SHA256: 7043e48fde758c45f61ea9be4c5742ccda0b7c758f4207244d39583209487a3e
+Section: Utilities
+Priority: optional
+Homepage: https://sourceforge.net/projects/pakos/
+Description: Please see the Other Menu to Find all PakOS Icons.
+ PakOS Hub is a set of utilities . Please see the Other Menu to Find all PakOS
+ Icons which include following set of Icons / Utilities:
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+ 10.
+ 11.
+ 12.
+
